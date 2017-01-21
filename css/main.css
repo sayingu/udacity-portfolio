@@ -1,0 +1,52 @@
+body {
+  font-family: "Lato", sans-serif;
+  color: #2d3c49;
+  margin-top: 20px;
+}
+
+header {
+  margin: 0 auto;
+  max-width: 800px;
+  border-bottom: 4px solid #7d97ad;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 44px;
+  font-weight: 100;
+}
+
+header h4 {
+  margin-top: 0px;
+}
+
+article {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.section_title {
+  color: #7d97ad;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+.sections {
+  margin-bottom: 40px;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+  margin: 20px auto 10px;
+}
+
+.logo:hover {
+  z-indexwebkit-filter: drop-shadow(3px 3px 3px #000);
+  filter: drop-shadow(3px 3px 3px #000);
+}
+
+.logo_line {
+  fill: none;
+  stroke-width: 10px;
+}
